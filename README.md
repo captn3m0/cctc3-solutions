@@ -17,6 +17,6 @@ The problems were (points in brackets):
 1. [Hidden Objects (800)](10#readme)
 
 ##Results
-We cleared the first round with x% of the maximum possible points. Here's a screenshot of the leaderboard:
+We cleared the first round as the leading team. Here's a screenshot of the leaderboard:
 
-![Add screenshot](later.jpg)
+![Add screenshot](http://i.imgur.com/W8OAIkZ.jpg)
