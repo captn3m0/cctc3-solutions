@@ -1,7 +1,7 @@
 This was an easier level than 9, but with a similar approach. The image is in this 
 directory. The level title was 
 
->Hidden Objects
+>Hidden Objects (800)
 
 The image file given to us was 70b6234f544af0132629aa6ec4be926dab59bb0b.png, with
 the file name being sha1(l33t), making us think l33t conversion would be involved in
