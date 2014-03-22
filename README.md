@@ -20,3 +20,9 @@ The problems were (points in brackets):
 We cleared the first round as the leading team. Here's a screenshot of the leaderboard:
 
 ![Add screenshot](http://i.imgur.com/W8OAIkZ.jpg)
+
+##Team
+Our team consisted of @captn3m0, @abhshkdz, and @ravikishore1993 (Team Legacy in screenshot).
+
+##Licence
+All content (and code) is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) Licence.
